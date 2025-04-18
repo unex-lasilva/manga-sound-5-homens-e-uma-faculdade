@@ -7,6 +7,9 @@ Um par de fone de ouvido, a sua lista de reprodução favorita e pronto: você e
 <img width="552" alt="image" src="https://github.com/user-attachments/assets/9873181b-511f-42d9-8cf5-5d5966515634" />
 
 
-# Equipe: <nome-da-equipe>
-1. <Nome de fulano>
-2. <Nome de fulana>
+# Equipe: <5 Homens e uma Faculdade>
+1. <Gustavo Muniz dos Anjos>
+2. <Matheus do Monte Silva>
+3. <Alex Gabriel>
+4. <Yves Santos>
+5. <Gustavo Azevedo Diniz>
